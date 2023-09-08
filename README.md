@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sachin9591
 - 👀 I’m interested in IoT, Web developments, Embedded Systems
-- 🌱 I’m currently learning ASP.NET MVC, ML/AI, Kotlin, Django.
-- 💞️ I’m looking to collaborate on ML/AI and Kotlin
+- 🌱 I’m currently learning ASP.NET MVC, ML/AI, Django and Data Science.
+- 💞️ I’m looking to collaborate on ML/AI and Data Science.
 - 📫 How to reach me through mobile or email.
 - 📫 Mobile No.: +91-9591960073
 - 📫 Email Address: skumar100031993@gmail.com
