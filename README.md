@@ -50,7 +50,7 @@ Taking a strategic career break to pursue the IBM Data Science Professional Cert
 
 ## Certifications
 
-- **IBM Data Science Professional Certificates**
+### IBM Data Science Professional Certificates
 - [Generative AI: Elevate Your Data Science Career](https://drive.google.com/file/d/1ivKIfWnHQSlOO0sAGIbkHVtjp6tP1Gte/view?usp=drive_link)
 - [Applied Data Science Capstone](https://drive.google.com/file/d/18Uzayakm561G-wPs-KUq4a9BHvL1IQaO/view?usp=drive_link)
 - [Machine Learning with Python](https://drive.google.com/file/d/1o1bgv3fWHvqCPR_RgU7UbzzYQXpPTkkt/view?usp=drive_link)
@@ -63,7 +63,7 @@ Taking a strategic career break to pursue the IBM Data Science Professional Cert
 - [Tools for Data Science](https://drive.google.com/file/d/1A2b-KF3hQSpSFn0OgxAqzefiJHMIDSIG/view?usp=drive_link)
 - [What is Data Science?](https://drive.google.com/file/d/1i3HgT3bbtTowWrhYkSQ50C-YOe2G1KoT/view?usp=drive_link)
 
-- **Other Certificates**
+### Other Certificates
 - [Mastering Microsoft Power BI, Mind Luster](https://drive.google.com/file/d/16BxtRRranldbbw_BW2qggxgaPOk2mRpd/view?usp=drive_link)
 - [ChatGPT & AI Hacks with MS Office, Skill Nation](https://drive.google.com/file/d/1Sb5obVHFdDnRXcmzSJHRZ60obENCZ8PE/view?usp=drive_link)
 
