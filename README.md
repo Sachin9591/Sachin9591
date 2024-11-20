@@ -1,9 +1,6 @@
 ## Experienced Software Developer Transitioning to Data Scientist | Proficient in Python, SQL, Data Analytics, and Machine Learning | Skilled in Web Development and Project Management
 
-👋 Hi, I’m Sachin Kumar B (Github Username @Sachin9591)  
-👀 I’m interested in **IoT**, **Web Development**, and **Embedded Systems**  
-🌱 I’m currently learning **ASP.NET MVC**, **ML/AI**, **Django**, and **Data Science**  
-💞️ I’m looking to collaborate on **ML/AI** and **Data Science**  
+Experienced **Software Developer** transitioning into **Data Science** with a strong background in **Python**, **SQL**, and **Data Analytics**. Proven expertise in **web development**, including **ASP.NET** and **Django**, as well as embedded systems and **IoT** technologies. Skilled in leading teams, managing projects, and delivering complex solutions aligned with business objectives. Currently enhancing skills in **Machine Learning (ML)** and **Artificial Intelligence (AI)** to contribute to data-driven decision-making and innovative projects.
 
 ## Contact Information  
 📫 Reach me via:  
@@ -11,9 +8,6 @@
 - **Email:** [skumar100031993@gmail.com](mailto:skumar100031993@gmail.com)  
 - **LinkedIn:** [Sachin Kumar B LinkedIn](https://www.linkedin.com/in/sachin-kumar-b/)  
 - **Resume:** [Sachin_Kumar_B_Resume](https://drive.google.com/file/d/16Qg7sgC9u3eSym7M2K9kEsYVnzQGB_QW/view?usp=drive_link)
-
-## About Me  
-Experienced **Software Developer** transitioning into **Data Science** with a strong background in **Python**, **SQL**, and **Data Analytics**. Proven expertise in **web development**, including **ASP.NET** and **Django**, as well as embedded systems and **IoT** technologies. Skilled in leading teams, managing projects, and delivering complex solutions aligned with business objectives. Currently enhancing skills in **Machine Learning (ML)** and **Artificial Intelligence (AI)** to contribute to data-driven decision-making and innovative projects.
 
 ## Work Experience
 
