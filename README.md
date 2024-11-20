@@ -39,7 +39,7 @@ Taking a strategic career break to pursue the IBM Data Science Professional Cert
 
 - **Programming Languages**: Python, SQL, C#, JavaScript, HTML, CSS  
 - **Technologies & Frameworks**: ASP.NET, Django, Machine Learning, Data Analytics, IoT, Web Development, Embedded Systems  
-- **Tools**: Jupyter, TensorFlow, Keras, NumPy, Pandas, Scikit-learn  
+- **Tools**: Jupyter, NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn  
 - **Project Management**: Agile, Scrum, Team Leadership
 
 ## Certifications
