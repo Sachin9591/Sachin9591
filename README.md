@@ -1,4 +1,4 @@
-<u>Hi there, I'm <a href="https://sachin9591.github.io/">Sachin Kumar B</a> - Senior Software Engineer</u>
+## <u>Hi there, I'm <a href="https://sachin9591.github.io/">Sachin Kumar B</a> - Senior Software Engineer</u>
 
 ### Experienced Software Developer Transitioning to Data Scientist | Proficient in Python, SQL, Data Analytics, and Machine Learning | Skilled in Web Development and Project Management
 
