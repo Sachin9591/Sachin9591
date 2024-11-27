@@ -1,4 +1,6 @@
-## Experienced Software Developer Transitioning to Data Scientist | Proficient in Python, SQL, Data Analytics, and Machine Learning | Skilled in Web Development and Project Management
+<u>Hi there, I'm <a href="https://sachin9591.github.io/">Sachin Kumar B</a> - Senior Software Engineer</u>
+
+### Experienced Software Developer Transitioning to Data Scientist | Proficient in Python, SQL, Data Analytics, and Machine Learning | Skilled in Web Development and Project Management
 
 Experienced **Software Developer** transitioning into **Data Science** with a strong background in **Python**, **SQL**, and **Data Analytics**. Proven expertise in **web development**, including **ASP.NET** and **Django**, as well as embedded systems and **IoT** technologies. Skilled in leading teams, managing projects, and delivering complex solutions aligned with business objectives. Currently enhancing skills in **Machine Learning (ML)** and **Artificial Intelligence (AI)** to contribute to data-driven decision-making and innovative projects.
 
