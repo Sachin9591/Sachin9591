@@ -13,7 +13,7 @@ Experienced **Software Developer** transitioning into **Data Science** with a st
 
 ## Work Experience
 
-### Freelancing
+### Freelancer
 **Self Employed** | **2020 - Present**
 - Delivered end-to-end data analytics solutions and Python-based automation projects for clients across diverse domains, enhancing operational efficiency and decision-making.
 - Applied IBM-certified skills in Machine Learning and Data Visualization to build interactive dashboards, conduct exploratory data analysis, and generate actionable insights.
