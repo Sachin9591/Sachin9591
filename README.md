@@ -14,19 +14,19 @@ Experienced **Software Developer** transitioning into **Data Science** with a st
 ## Work Experience
 
 ### Freelancer
-**Self Employed** | **2020 - Present**
+**Self Employed** | **Oct 2020 - Present**
 - Delivered end-to-end data analytics solutions and Python-based automation projects for clients across diverse domains, enhancing operational efficiency and decision-making.
 - Applied IBM-certified skills in Machine Learning and Data Visualization to build interactive dashboards, conduct exploratory data analysis, and generate actionable insights.
 - Managed client communications, project timelines, and deliverables independently, ensuring successful completion of freelance assignments aligned with business objectives.
 
 ### Senior Software Engineer  
-**Novac Technology Solutions** | **2019 – 2020**  
+**Novac Technology Solutions** | **Nov 2018 – Sept 2020**  
 - Led .NET-based web projects, managing end-to-end project execution and client communications.  
 - Oversaw team performance and mentored junior engineers to ensure timely delivery of high-quality software solutions.  
 - Implemented real-time application tracking and maintenance strategies for improved business efficiency.
 
 ### Software Engineer  
-**Brevera Technologies** | **2017 – 2019**  
+**Brevera Technologies** | **Oct 2015 – Dec 2017**  
 - Developed and maintained web applications and embedded software for voltage stabilizer products.  
 - Actively involved in production support, optimizing software performance, and managing client deliverables.  
 - Collaborated on innovations in embedded systems, contributing to product improvement and customer satisfaction.
