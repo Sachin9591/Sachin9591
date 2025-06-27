@@ -9,7 +9,7 @@ Experienced **Software Developer** transitioning into **Data Science** with a st
 - **Mobile:** [+91-9591960073](tel:+919591960073)  
 - **Email:** [skumar100031993@gmail.com](mailto:skumar100031993@gmail.com)  
 - **LinkedIn:** [Sachin Kumar B LinkedIn](https://www.linkedin.com/in/sachin-kumar-b/)  
-- **Resume:** [Sachin_Kumar_B_Resume](https://drive.google.com/file/d/16Qg7sgC9u3eSym7M2K9kEsYVnzQGB_QW/view?usp=drive_link)
+- **Resume:** [Sachin_Kumar_B_Resume](https://drive.google.com/file/d/1L_mytjGTQG0II7gG2zTQmsQ4AkMRuIqu/view?usp=drive_link)
 
 ## Work Experience
 
