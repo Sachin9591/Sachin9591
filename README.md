@@ -71,9 +71,11 @@ Taking a strategic career break to pursue the IBM Data Science Professional Cert
 - [ChatGPT & AI Hacks with MS Office, Skill Nation](https://drive.google.com/file/d/1Sb5obVHFdDnRXcmzSJHRZ60obENCZ8PE/view?usp=drive_link)
 - [Instagram Clone using HTML & CSS](https://drive.google.com/file/d/1aUvGVK80h6qjzrNxjHQdYj_zS0lIMQKd/view?usp=drive_link)
 - [Prompt Design in Vertex AI, Google Cloud](https://www.cloudskillsboost.google/public_profiles/1134e210-68d8-4d05-ad5d-30566e19ec20/badges/15906527)
+- []()
 
 ## Looking to Collaborate
 Interested in collaborating on **ML/AI** and **Data Science** projects, particularly those involving **real-world applications** of machine learning models and data analytics. Open to contributing to innovative solutions in **IoT** and **Embedded Systems**.
 
 ## How to Reach Me
 Feel free to connect with me via **email** or **LinkedIn** for collaboration, queries, or project discussions.
+
