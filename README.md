@@ -65,7 +65,7 @@ Taking a strategic career break to pursue the IBM Data Science Professional Cert
 
 - **Smart Home Automation**  
   Developed home automation software with Arduino/AT89s52, integrating relay communication and display interface to enhance user interaction and system efficiency. Optimized device        control, improving reliability by 25%.
-- **Design & construction of Fly-gym using Arduino **  
+- **Design & construction of Fly-gym using Arduino**  
   Developed Embedded C software for DC motor control in the Fly-Gym project, improving time zone management and automation. Enhanced system efficiency, showcasing expertise in embedded    systems, problem-solving, and adapting to dynamic environments.
 
 ## Skills
