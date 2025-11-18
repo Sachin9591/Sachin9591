@@ -39,38 +39,38 @@ Taking a strategic career break to pursue the IBM Data Science Professional Cert
 ## Professional Projects
 
 - **Business Insights & Visualization Dashboard**  
-  Built an interactive dashboard with Python, SQL, and Power BI/Tableau to analyze data, generate insights, and support strategic decisions.
+    - Built an interactive dashboard with Python, SQL, and Power BI/Tableau to analyze data, generate insights, and support strategic decisions.
 - **Launch Site Distance Calculation**  
-  Utilized **Python** and **Folium** to calculate distances between launch site coordinates and nearby coastlines, creating interactive maps to visualize geographic data.  
+    - Utilized **Python** and **Folium** to calculate distances between launch site coordinates and nearby coastlines, creating interactive maps to visualize geographic data.  
 - **Machine Learning Projects**  
-  Building predictive models using **Python**, **ML/AI**, and **Data Science** techniques to solve real-world challenges in various domains.  
+    - Building predictive models using **Python**, **ML/AI**, and **Data Science** techniques to solve real-world challenges in various domains.  
 - **IoT and Embedded System Development**  
-  Designed and developed IoT solutions for efficient data collection and communication between devices in various environments.
+    - Designed and developed IoT solutions for efficient data collection and communication between devices in various environments.
 - **Stock Analysis Using Machine Learning**
-  Responsible for developing predictive models using Python, Pandas, NumPy, and scikit-learn. Tasks include data preprocessing, feature engineering, model training, and evaluation to       forecast stock market trends and insights.
+    - Responsible for developing predictive models using Python, Pandas, NumPy, and scikit-learn. Tasks include data preprocessing, feature engineering, model training, and evaluation to forecast stock market trends and insights.
 - **E-Commerce Website**
-  Developed a robust e-commerce website utilizing Python and Django, integrating essential features like product listings, shopping cart management, and secure payment processing.
+    - Developed a robust e-commerce website utilizing Python and Django, integrating essential features like product listings, shopping cart management, and secure payment processing.
 - **Instagram Clone using HTML & CSS**
-  Showcased expertise in front-end web development by designing an Instagram clone with HTML and CSS, enhancing web design skills through the replication of the platform’s layout and       functionalities.
+    - Showcased expertise in front-end web development by designing an Instagram clone with HTML and CSS, enhancing web design skills through the replication of the platform’s layout and functionalities.
 - **Personal Portfolio**
-  Demonstrated skills, projects, and testimonials in personal portfolio, showcasing expertise in web development and design. Emphasized user experience and aesthetics, highlighting         proficiency in creating visually appealing and functional websites.
+    - Demonstrated skills, projects, and testimonials in personal portfolio, showcasing expertise in web development and design. Emphasized user experience and aesthetics, highlighting         proficiency in creating visually appealing and functional websites.
 - **Desktop Billing Software**
-  Developed billing software for desktop applications, adhering to client specifications. Proficient in designing & implementing solutions using .NET framework. Demonstrated ability to     fulfill customer requirements effectively.
+    - Developed billing software for desktop applications, adhering to client specifications. Proficient in designing & implementing solutions using .NET framework. Demonstrated ability to fulfill customer requirements effectively.
 - **Shrilife Insurance**
-  Design and develop .NET web applications for company and client projects. Create and maintain existing website applications, ensuring seamless implementation.
+    - Design and develop .NET web applications for company and client projects. Create and maintain existing website applications, ensuring seamless implementation.
 - **Automation Testing Tools for Voltage Stabilizers**
-  Utilized a test jig board with a Renesas M16C-30280FC microcontroller to test, calibrate, and identify test points, potential faults, and circuit working status for product quality      assurance, encompassing relay timing, voltage, smart charging, and calibration.
+    - Utilized a test jig board with a Renesas M16C-30280FC microcontroller to test, calibrate, and identify test points, potential faults, and circuit working status for product quality assurance, encompassing relay timing, voltage, smart charging, and calibration.
 - **Electronic Weighing Scale Board**
-  Project involves designing weighing scale units supporting various measuring ranges, encompassing software development for display interface, battery charging, and a 24-bit ADC          integration with load cell.
+    - Project involves designing weighing scale units supporting various measuring ranges, encompassing software development for display interface, battery charging, and a 24-bit ADC          integration with load cell.
 - **Database development using Python**
-  The creation of a database using Python and GIT enables efficient data storage and management, with seamless cloud-based backup for contact information, enhancing data accessibility     and security.
+    - The creation of a database using Python and GIT enables efficient data storage and management, with seamless cloud-based backup for contact information, enhancing data accessibility and security.
   
 ## Academic Projects
 
 - **Smart Home Automation**  
-  Developed home automation software with Arduino/AT89s52, integrating relay communication and display interface to enhance user interaction and system efficiency. Optimized device        control, improving reliability by 25%.
+    - Developed home automation software with Arduino/AT89s52, integrating relay communication and display interface to enhance user interaction and system efficiency. Optimized device        control, improving reliability by 25%.
 - **Design & construction of Fly-gym using Arduino**  
-  Developed Embedded C software for DC motor control in the Fly-Gym project, improving time zone management and automation. Enhanced system efficiency, showcasing expertise in embedded    systems, problem-solving, and adapting to dynamic environments.
+    - Developed Embedded C software for DC motor control in the Fly-Gym project, improving time zone management and automation. Enhanced system efficiency, showcasing expertise in embedded systems, problem-solving, and adapting to dynamic environments.
 
 ## Skills
 
