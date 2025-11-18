@@ -38,6 +38,8 @@ Taking a strategic career break to pursue the IBM Data Science Professional Cert
 
 ## Professional Projects
 
+- **Business Insights & Visualization Dashboard**
+  Built an interactive dashboard with Python, SQL, and Power BI/Tableau to analyze data, generate insights, and support strategic decisions.
 - **Launch Site Distance Calculation**  
   Utilized **Python** and **Folium** to calculate distances between launch site coordinates and nearby coastlines, creating interactive maps to visualize geographic data.  
 - **Machine Learning Projects**  
