@@ -2,7 +2,7 @@
 
 ### Experienced Software Developer Transitioning to Data Scientist | Proficient in Python, SQL, Data Analytics, and Machine Learning | Skilled in Web Development and Project Management
 
-Versatile **Software Engineer** with **8+ years of experience**, including **4 years as a successful freelancer**, delivering scalable web applications, desktop solutions, and data-driven tools. Strong foundation in **Python, SQL, Django, C#, and ASP.NET**, with hands-on expertise in **RESTful APIs, machine learning**, and **data analytics**. Completed **IBM Data Science and Machine Learning certifications**, applying predictive models and visualization techniques to real-world datasets. Proficient in **full-stack development, project management**, and **agile practices**. 
+Versatile **Software Engineer** with **9+ years of experience**, including **5+ years as a successful freelancer**, delivering scalable web applications, desktop solutions, and data-driven tools. Strong foundation in **Python, SQL, Django, C#, and ASP.NET**, with hands-on expertise in **RESTful APIs, machine learning**, and **data analytics**. Completed **IBM Data Science and Machine Learning certifications**, applying predictive models and visualization techniques to real-world datasets. Proficient in **full-stack development, project management**, and **agile practices**. 
 
 Seeking **Data Scientist** or **Python Developer** roles to leverage technical depth, freelancing versatility, and a strong analytical mindset to deliver business impact.
 
