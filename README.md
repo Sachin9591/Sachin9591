@@ -137,5 +137,5 @@ Taking a strategic career break to pursue the IBM Data Science Professional Cert
 Interested in collaborating on **ML/AI** and **Data Science** projects, particularly those involving **real-world applications** of machine learning models and data analytics. Open to contributing to innovative solutions in **IoT** and **Embedded Systems**.
 
 ## How to Reach Me
-Feel free to connect with me via **email** or **LinkedIn** for collaboration, queries, or project discussions.
+Feel free to connect with me via **[Email](mailto:skumar10031993@gmail.com)** or **[LinkedIn](https://linkedin.com/in/sachin-kumar-b-10031993)** for collaboration, queries, or project discussions.
 
