@@ -12,7 +12,7 @@ Seeking **Data Scientist** or **Python Developer** roles to leverage technical d
 - **Email:** [skumar100031993@gmail.com](mailto:skumar100031993@gmail.com)
 - **Portfolio:** [Sachin Kumar B](https://sachin9591.github.io)
 - **LinkedIn:** [Sachin Kumar B LinkedIn](https://linkedin.com/in/sachin-kumar-b-10031993)  
-- **Resume:** [Sachin_Kumar_B_Data_Science]([https://drive.google.com/file/d/16lfffDiMnN8FcpImCFoRe9nTanS1R09M/view?usp=drivesdk](https://drive.google.com/file/d/1vetCAD41Kjf_h78T7BEtiZ382W3lXs9O/view?usp=drive_link), [Sachin_Kumar_B_Python_Dev](https://drive.google.com/file/d/1byHqUfTDwZ1RU0FBSG1kfTA27mDyWV6q/view?usp=drive_link)
+- **Resume:** [Sachin_Kumar_B_Data_Science](https://drive.google.com/file/d/1vetCAD41Kjf_h78T7BEtiZ382W3lXs9O/view?usp=drive_link), [Sachin_Kumar_B_Python_Dev](https://drive.google.com/file/d/1byHqUfTDwZ1RU0FBSG1kfTA27mDyWV6q/view?usp=drive_link)
 
 ## Work Experience
 
