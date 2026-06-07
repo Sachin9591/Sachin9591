@@ -18,8 +18,8 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
 
 ## Work Experience
 
-### Freelancer
-**Self Employed** | **Oct 2020 - Present**
+### Senior Data Engineering Consultant (Independent Contractor)
+**Freelance Data Solutions** | **Oct 2020 - Present**
 - Developed Python-based automation solutions, data processing applications, and database-driven systems for various business requirements.
 - Built data workflows involving data extraction, transformation, validation, and reporting processes.
 - Designed and maintained structured databases for efficient storage, retrieval, and analysis of business information.
