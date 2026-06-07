@@ -34,15 +34,19 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
 - Collaborated with business stakeholders to gather requirements and deliver data-driven solutions.
 - Managed project execution, team coordination, debugging, maintenance, and production support activities.
 
+### Full-Time Family Caregiver
+**Career Break** | **Jan 2018 – Nov 2018**  
+- Took a planned career break to provide dedicated health and personal care support for immediate family members.
+- Utilized personal time to strengthen technical expertise through self-directed learning in SQL, database systems, data architecture, and software engineering concepts.
+- Continued exploring emerging technologies and industry best practices in data management and analytics.
+- Maintained technical proficiency through independent projects, research, and continuous professional development.
+
 ### Software Engineer  
 **Brevera Technologies** | **Oct 2015 – Dec 2017**  
 - Developed software applications and embedded solutions supporting industrial automation products.
 - Worked on data collection, monitoring, calibration, testing, and reporting systems. 
 - Maintained databases and software systems to support operational efficiency and product reliability.
 - Participated in system testing, troubleshooting, client support, and deployment activities.
-  
-## Career Break  
-Took a strategic career break to upskill in Data Engineering, Data Analytics, Python, SQL, Database Systems, ETL Processes, and Cloud Fundamentals, while completing the IBM Data Science Professional Certificate.
 
 ## Professional Projects
 
