@@ -47,37 +47,47 @@ Took a strategic career break to upskill in Data Engineering, Data Analytics, Py
 ## Professional Projects
 
 - **Business Insights & Visualization Dashboard**  
-    - Built an interactive dashboard using Python, SQL, and Power BI/Tableau to analyze business KPIs and trends.
-    - Performed data cleaning, transformation, and statistical analysis to uncover insights from large datasets.
-    - Automated reporting workflows and delivered visualizations that improved strategic decision-making.
+    - Developed interactive dashboards using Python, SQL, and Power BI/Tableau.
+    - Performed data extraction, cleaning, transformation, and visualization.
+    - Automated reporting workflows and KPI monitoring processes.
+    - Delivered actionable insights for business decision-making.
+      
 - **Launch Site Distance Calculation**  
-    - Utilized Python to calculate accurate distances between launch site coordinates and nearby coastlines for detailed spatial analysis purposes.
-    - Created interactive maps using Folium to visually represent geographic data, improving comprehension of spatial relationships effectively.
-    - Enabled clear visualization of geographic proximity and patterns, supporting analysis and decision-making through engaging, interactive mapping tools.
+    - Processed geographic datasets using Python.
+    - Performed spatial calculations and distance analysis.
+    - Created interactive maps using Folium.
+    - Developed visual insights from geospatial data.
+      
 - **Machine Learning Projects**  
     - Developed predictive models using Python and ML/AI techniques to address complex, real-world problems across multiple domains.
     - Applied Data Science methodologies to preprocess data, engineer features, and optimize model performance for accurate predictions.
     - Leveraged analytical insights from models to support decision-making and solve practical challenges in diverse industry contexts.
+      
 - **IoT and Embedded System Development**  
     - Designed and implemented IoT solutions to enable efficient, reliable data collection across diverse devices and operational environments.
     - Designed and implemented IoT solutions to enable efficient, reliable data collection across diverse devices and operational environments.
     - Leveraged IoT technologies to optimize data-driven processes, enhancing monitoring, control, and decision-making across various applications.
+      
 - **Stock Analysis Using Machine Learning**
     - Developed predictive models using Python, Pandas, NumPy, and scikit-learn to analyze and forecast stock market trends accurately.
     - Performed data preprocessing and feature engineering to prepare datasets for robust and efficient model training processes.
     - Conducted model training, evaluation, and validation to generate actionable insights and reliable predictions for investment decision-making.
+      
 - **E-Commerce Website**
     - Developed a robust e-commerce website using Python and Django, ensuring scalable and maintainable web application architecture.
     - Integrated key functionalities including product listings, dynamic shopping cart management, and user-friendly navigation for seamless customer experience.
     - Implemented secure payment processing and order management systems, enhancing transaction safety and overall operational efficiency of the platform.
+      
 - **Instagram Clone using HTML & CSS**
     - Demonstrated front-end development expertise by designing an Instagram clone using HTML and CSS for practical skill enhancement.
     - Replicated Instagram’s layout and core functionalities to gain hands-on experience in responsive and user-friendly web design.
     - Strengthened web design skills through interactive project implementation, focusing on UI accuracy, layout precision, and feature replication.
+      
 - **Personal Portfolio**
     - Created a personal portfolio showcasing skills, projects, and testimonials to highlight expertise in web development and design.
     - Emphasized user experience and intuitive navigation to ensure websites are both visually appealing and highly functional.
     - Demonstrated proficiency in designing aesthetically pleasing interfaces while maintaining strong usability and interactive website features.
+      
 - **Desktop Billing Software**
     - Developed desktop billing software according to client specifications, ensuring functional and reliable application performance.
     - Designed and implemented solutions efficiently using the .NET framework, leveraging its features for robust software development.
@@ -86,14 +96,17 @@ Took a strategic career break to upskill in Data Engineering, Data Analytics, Py
     - Design and develop .NET web applications for both company and client projects, ensuring robust and scalable solutions.
     - Create new website applications with attention to functionality, performance, and user experience across diverse project requirements.
     - Maintain and enhance existing web applications, ensuring seamless implementation, smooth operation, and timely updates for clients.
+      
 - **Automation Testing Tools for Voltage Stabilizers**
     - Utilized a test jig board with Renesas M16C-30280FC microcontroller to evaluate circuit functionality and ensure product quality.
     - Conducted calibration and testing to identify test points, potential faults, and assess relay timing and voltage performance.
     - Verified smart charging, calibration, and overall circuit operation, supporting reliable product performance and quality assurance standards.
+      
 - **Electronic Weighing Scale Board**
     - Designed weighing scale units supporting multiple measuring ranges, integrating precise hardware and user-friendly software components for functionality.
     - Developed software for display interfaces, battery charging management, and accurate measurement readouts using a 24-bit ADC.
     - Integrated load cell with 24-bit ADC, ensuring reliable weight measurement, performance accuracy, and seamless device operation.
+      
 - **Database development using Python**
     - Created a database using Python and GIT to enable efficient data storage and organized management of information.
     - Implemented seamless cloud-based backup for contact information, ensuring secure, reliable, and accessible data storage solutions.
