@@ -14,7 +14,7 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
 - **Email:** [skumar100031993@gmail.com](mailto:skumar100031993@gmail.com)
 - **Portfolio:** [Sachin Kumar B](https://sachin9591.github.io)
 - **LinkedIn:** [Sachin Kumar B LinkedIn](https://linkedin.com/in/sachin-kumar-b-10031993)  
-- **Resume:** [Sachin_Kumar_B_Data Engineer](https://drive.google.com/file/d/1sonlcniRuxp2CgaoNjgi93mhjIydItLF/view?usp=drive_link)
+- **Resume:** [Sachin_Kumar_B_Data Engineer](https://drive.google.com/file/d/1d540D-_2rah2pat4bC7AZRRsCJaWT1-n/view?usp=drive_link)
 
 ## Work Experience
 
