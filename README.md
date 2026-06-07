@@ -1,4 +1,4 @@
-## <u>Hi there, I'm <a href="https://sachin9591.github.io/">Sachin Kumar B</a> - Data Engineer</u>
+## <u>Hi there, I'm <a href="https://sachin9591.github.io/">Sachin Kumar B</a> - Senior Data Engineer</u>
 
 ### Experienced Software Engineer Transitioning to Data Engineering | Python, SQL, ETL, Data Pipelines, Data Warehousing & Analytics | Open to Onsite and Hybrid Opportunities in Bengaluru
 
