@@ -64,19 +64,22 @@ Took a strategic career break to upskill in Data Engineering, Data Analytics, Py
     - Leveraged analytical insights from models to support decision-making and solve practical challenges in diverse industry contexts.
       
 - **IoT and Embedded System Development**  
-    - Designed and implemented IoT solutions to enable efficient, reliable data collection across diverse devices and operational environments.
-    - Designed and implemented IoT solutions to enable efficient, reliable data collection across diverse devices and operational environments.
-    - Leveraged IoT technologies to optimize data-driven processes, enhancing monitoring, control, and decision-making across various applications.
+    - Designed embedded software solutions for data acquisition and monitoring.
+    - Implemented reliable data collection and reporting mechanisms.
+    - Supported device communication, calibration, and operational analytics.
+    - Improved monitoring efficiency through automated data capture.
       
 - **Stock Analysis Using Machine Learning**
-    - Developed predictive models using Python, Pandas, NumPy, and scikit-learn to analyze and forecast stock market trends accurately.
-    - Performed data preprocessing and feature engineering to prepare datasets for robust and efficient model training processes.
-    - Conducted model training, evaluation, and validation to generate actionable insights and reliable predictions for investment decision-making.
+    - Utilized Python, Pandas, NumPy, and Scikit-Learn for data analysis.
+    - Performed data preprocessing, transformation, and feature engineering.
+    - Conducted exploratory data analysis and predictive modeling.
+    - Generated analytical insights from historical stock datasets.
       
 - **E-Commerce Website**
-    - Developed a robust e-commerce website using Python and Django, ensuring scalable and maintainable web application architecture.
-    - Integrated key functionalities including product listings, dynamic shopping cart management, and user-friendly navigation for seamless customer experience.
-    - Implemented secure payment processing and order management systems, enhancing transaction safety and overall operational efficiency of the platform.
+    - Developed a scalable e-commerce platform using Python and Django.
+    - Designed database schemas and backend business logic.
+    - Implemented product management, shopping cart, and order processing modules.
+    - Integrated secure transaction workflows and data management processes.
       
 - **Instagram Clone using HTML & CSS**
     - Demonstrated front-end development expertise by designing an Instagram clone using HTML and CSS for practical skill enhancement.
@@ -92,10 +95,12 @@ Took a strategic career break to upskill in Data Engineering, Data Analytics, Py
     - Developed desktop billing software according to client specifications, ensuring functional and reliable application performance.
     - Designed and implemented solutions efficiently using the .NET framework, leveraging its features for robust software development.
     - Demonstrated strong ability to meet customer requirements, delivering solutions that enhanced operational efficiency and user satisfaction.
+      
 - **Shrilife Insurance**
-    - Design and develop .NET web applications for both company and client projects, ensuring robust and scalable solutions.
-    - Create new website applications with attention to functionality, performance, and user experience across diverse project requirements.
-    - Maintain and enhance existing web applications, ensuring seamless implementation, smooth operation, and timely updates for clients.
+    - Developed and maintained enterprise web applications for insurance operations.
+    - Managed database interactions, reporting systems, and workflow automation.
+    - Enhanced application performance, reliability, and scalability.
+    - Supported production deployments and maintenance activities.
       
 - **Automation Testing Tools for Voltage Stabilizers**
     - Utilized a test jig board with Renesas M16C-30280FC microcontroller to evaluate circuit functionality and ensure product quality.
@@ -108,20 +113,24 @@ Took a strategic career break to upskill in Data Engineering, Data Analytics, Py
     - Integrated load cell with 24-bit ADC, ensuring reliable weight measurement, performance accuracy, and seamless device operation.
       
 - **Database development using Python**
-    - Created a database using Python and GIT to enable efficient data storage and organized management of information.
-    - Implemented seamless cloud-based backup for contact information, ensuring secure, reliable, and accessible data storage solutions.
-    - Enhanced overall data accessibility and security while maintaining version control and efficient collaboration through GIT integration.
+    - Designed and implemented database systems using Python and SQL.
+    - Built structured data storage solutions with backup and recovery capabilities.
+    - Implemented version control using Git for maintaining data-related projects.
+    - Improved data accessibility, consistency, and management efficiency.
   
 ## Academic Projects
 
 - **Smart Home Automation**  
-    - Developed home automation software using Arduino/AT89s52, integrating relay communication for effective device control and management.
-    - Designed display interfaces to enhance user interaction, providing intuitive monitoring and operational feedback for connected devices.
-    - Optimized system performance, improving reliability by 25% and ensuring efficient, responsive, and robust home automation solutions.
+    - Developed embedded software using Arduino and AT89S52 microcontrollers.
+    - Built automated control and monitoring systems.
+    - Designed interfaces for device management and operational feedback.
+    - Improved system reliability and performance.
+      
 - **Design & construction of Fly-gym using Arduino**  
-    - Developed Embedded C software to control DC motors in the Fly-Gym project, improving automation and time zone management.
-    - Enhanced overall system efficiency through precise motor control, demonstrating expertise in embedded systems and real-time applications.
-    - Applied problem-solving skills and adaptability to dynamic environments, delivering reliable, high-performance solutions for complex embedded projects.
+    - Developed Embedded C software for motor control and automation.
+    - Designed real-time control logic and monitoring mechanisms.
+    - Improved operational efficiency through automation techniques.
+    - Demonstrated problem-solving skills in embedded systems development.
 
 ## Skills
 
