@@ -134,10 +134,12 @@ Took a strategic career break to upskill in Data Engineering, Data Analytics, Py
 
 ## Skills
 
-- **Programming Languages**: Python, SQL, C#, JavaScript, HTML, CSS  
-- **Technologies & Frameworks**: ASP.NET, Django, Machine Learning, Data Analytics, IoT, Web Development, Embedded Systems  
-- **Tools**: Jupyter, NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn  
-- **Project Management**: Agile, Scrum, Team Leadership
+- **Programming Languages**: Python, SQL, C#, JavaScript, HTML, CSS
+- **Data Engineering & Analytics**: ETL Development, Data Modeling, Data Warehousing, Data Integration, Data Validation, Data Transformation, Data Analysis, Data Visualization, Reporting & Dashboarding
+- **Databases**: SQL Server, MySQL, PostgreSQL, SQLite
+- **Frameworks & Technologies**: Django, ASP.NET, REST APIs, Git, Jupyter Notebook
+- **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Project & Team Management**: Agile Methodology, Scrum, Team Leadership, Stakeholder Communication
 
 ## Certifications
 
@@ -163,8 +165,20 @@ Took a strategic career break to upskill in Data Engineering, Data Analytics, Py
 - [Build Real World AI Applications with Gemini & Imagen](https://www.cloudskillsboost.google/public_profiles/1134e210-68d8-4d05-ad5d-30566e19ec20/badges/15906527)
 
 ## Looking to Collaborate
-Interested in collaborating on **ML/AI** and **Data Science** projects, particularly those involving **real-world applications** of machine learning models and data analytics. Open to contributing to innovative solutions in **IoT** and **Embedded Systems**.
+Interested in collaborating on **Data Engineering Projects, ETL Pipeline Development, Database Design & Optimization, Data Analytics Solutions, Python Automation Projects, Business Intelligence & Reporting** and **Cloud Data Platform Learning Initiatives** 
+
+## Current Career Objective
+Seeking **Data Engineer** opportunities in **Bengaluru** with **Onsite or Hybrid** work models.
+**Areas of Interest:**
+  - Data Engineering
+  - ETL Development
+  - Data Warehousing
+  - Data Pipelines
+  - Data Integration
+  - Database Engineering
+  - Python Development
+  - Analytics Engineering
 
 ## How to Reach Me
-Feel free to connect with me via **[Email](mailto:skumar10031993@gmail.com)** or **[LinkedIn](https://linkedin.com/in/sachin-kumar-b-10031993)** for collaboration, queries, or project discussions.
+Feel free to connect with me via **[Email](mailto:skumar10031993@gmail.com)** or **[LinkedIn](https://linkedin.com/in/sachin-kumar-b-10031993)**. Open to networking, collaboration, referrals, and Data Engineering opportunities in Bengaluru.
 
