@@ -1,10 +1,12 @@
-## <u>Hi there, I'm <a href="https://sachin9591.github.io/">Sachin Kumar B</a> - Senior Software Engineer</u>
+## <u>Hi there, I'm <a href="https://sachin9591.github.io/">Sachin Kumar B</a> - Data Engineer</u>
 
-### Experienced Software Developer Transitioning to Data Scientist | Proficient in Python, SQL, Data Analytics, and Machine Learning | Skilled in Web Development and Project Management
+### Experienced Software Engineer Transitioning to Data Engineering | Python, SQL, ETL, Data Pipelines, Data Warehousing & Analytics | Open to Onsite and Hybrid Opportunities in Bengaluru
 
-Versatile Software Engineer with 4.2 years of corporate experience in Fintech and Insurance and freelance experience building **web applications, desktop solutions, and data-driven tools**. Expertise in **Python, SQL, Django, C#, ASP.NET, RESTful APIs, Machine Learning, Data Analytics, and Full-Stack Development**, supported by **IBM Data Science and Machine Learning certifications**, with experience in **predictive modeling, data visualization, project management, and Agile methodologies**. 
+Versatile Software Engineer with 4.2+ years of corporate experience in Fintech and Insurance domains, combined with freelance experience in building web applications, automation solutions, databases, and data-driven systems. Skilled in **Python, SQL, Django, C#, ASP.NET, ETL Development, Data Analytics, Data Warehousing, REST APIs, and Database Management.**. 
 
-Seeking **Data Scientist** or **Python Developer** roles to leverage technical depth, freelancing versatility, and a strong analytical mindset to deliver business impact.
+Completed the **IBM Data Science Professional Certificate**, strengthening expertise in data processing, data modeling, data visualization, machine learning fundamentals, and analytics. Passionate about transforming raw data into reliable, scalable, and business-ready datasets that support organizational decision-making.
+
+Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably **Onsite or Hybrid**, where I can leverage my software engineering background, analytical skills, and data engineering capabilities to build robust data solutions.
 
 ## Contact Information  
 📫 Reach me via:  
@@ -18,24 +20,29 @@ Seeking **Data Scientist** or **Python Developer** roles to leverage technical d
 
 ### Freelancer
 **Self Employed** | **Oct 2020 - Present**
-- Delivered end-to-end data analytics solutions and Python-based automation projects for clients across diverse domains, enhancing operational efficiency and decision-making.
-- Applied IBM-certified skills in Machine Learning and Data Visualization to build interactive dashboards, conduct exploratory data analysis, and generate actionable insights.
-- Managed client communications, project timelines, and deliverables independently, ensuring successful completion of freelance assignments aligned with business objectives.
+- Developed Python-based automation solutions, data processing applications, and database-driven systems for various business requirements.
+- Built data workflows involving data extraction, transformation, validation, and reporting processes.
+- Designed and maintained structured databases for efficient storage, retrieval, and analysis of business information.
+- Delivered analytics solutions and dashboards that improved business visibility and operational efficiency.
+- Managed project planning, client communication, documentation, and deployment independently.
 
 ### Senior Software Engineer  
 **Novac Technology Solutions** | **Nov 2018 – Sept 2020**  
-- Led .NET-based web projects, managing end-to-end project execution and client communications.  
-- Oversaw team performance and mentored junior engineers to ensure timely delivery of high-quality software solutions.  
-- Implemented real-time application tracking and maintenance strategies for improved business efficiency.
+- Led enterprise web application projects within the Insurance and Fintech domains.
+- Developed and maintained scalable web applications and backend systems using ASP.NET and SQL Server.
+- Worked extensively with relational databases, data integration processes, reporting systems, and performance optimization.
+- Collaborated with business stakeholders to gather requirements and deliver data-driven solutions.
+- Managed project execution, team coordination, debugging, maintenance, and production support activities.
 
 ### Software Engineer  
 **Brevera Technologies** | **Oct 2015 – Dec 2017**  
-- Developed and maintained web applications and embedded software for voltage stabilizer products.  
-- Actively involved in production support, optimizing software performance, and managing client deliverables.  
-- Collaborated on innovations in embedded systems, contributing to product improvement and customer satisfaction.
+- Developed software applications and embedded solutions supporting industrial automation products.
+- Worked on data collection, monitoring, calibration, testing, and reporting systems. 
+- Maintained databases and software systems to support operational efficiency and product reliability.
+- Participated in system testing, troubleshooting, client support, and deployment activities.
   
 ## Career Break  
-Taking a strategic career break to pursue the IBM Data Science Professional Certificate, with a focus on Machine Learning, Data Science, and Python.
+Took a strategic career break to upskill in Data Engineering, Data Analytics, Python, SQL, Database Systems, ETL Processes, and Cloud Fundamentals, while completing the IBM Data Science Professional Certificate.
 
 ## Professional Projects
 
