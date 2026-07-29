@@ -10,11 +10,11 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru (Onsite / Immed
 
 ## Contact Information  
 📫 Reach me via:  
-- **Mobile:** [+91-9591960073](tel:+919591960073), [Chat on WhatsApp](https://wa.me/919591960073)
-- **Email:** [skumar100031993@gmail.com](mailto:skumar100031993@gmail.com)
-- **Portfolio:** [Sachin Kumar B](https://sachin9591.github.io)
-- **LinkedIn:** [Sachin Kumar B LinkedIn](https://linkedin.com/in/sachin-kumar-b-10031993)  
-- **Resume:** [Sachin_Kumar_B_Data Engineer](https://drive.google.com/file/d/1d540D-_2rah2pat4bC7AZRRsCJaWT1-n/view?usp=drive_link)
+- **Mobile & Chat:** [+91-9591960073](tel:+919591960073), [Chat on WhatsApp](https://wa.me/919591960073)
+- **Email:** [skumar10031993@gmail.com](mailto:skumar10031993@gmail.com)
+- **Portfolio Website:** [Sachin Kumar B](https://sachin9591.github.io)
+- **LinkedIn Profile:** [Sachin Kumar B LinkedIn](https://linkedin.com/in/sachin-kumar-b-10031993)  
+- **Latest CV/Resume:** [Download Data Engineer Resume](https://drive.google.com/file/d/1d540D-_2rah2pat4bC7AZRRsCJaWT1-n/view?usp=drive_link)
 
 ## Work Experience
 
