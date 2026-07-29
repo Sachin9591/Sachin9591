@@ -1,12 +1,10 @@
 ## <u>Hi there, I'm <a href="https://sachin9591.github.io/">Sachin Kumar B</a> - Senior Data Engineer</u>
 
-### Experienced Software Engineer Transitioning to Data Engineering | Python, SQL, ETL, Data Pipelines, Data Warehousing & Analytics | Open to Onsite and Hybrid Opportunities in Bengaluru
+### Senior Data Engineer | Python • Advanced SQL • PySpark • AWS Cloud • ETL/ELT Pipelines | Multi-Terabyte Data Pipelines & Warehousing | Open to Onsite and Hybrid Opportunities in Bengaluru
 
-Versatile Software Engineer with 4.2+ years of corporate experience in Fintech and Insurance domains, combined with freelance experience in building web applications, automation solutions, databases, and data-driven systems. Skilled in **Python, SQL, Django, C#, ASP.NET, ETL Development, Data Analytics, Data Warehousing, REST APIs, and Database Management.**. 
+Versatile Senior Data Engineer with 9+ years of comprehensive experience across corporate Fintech and Insurance domains, combined with strategic independent consulting building high-scale data architectures, automation solutions, and real-time streaming systems. Passionate about transforming raw data into reliable, scalable, and business-ready datasets that support organizational decision-making. Advanced proficiency in designing multi-terabyte data lakehouses, optimizing analytical queries by 3.5x, and deploying robust production ETL/ELT pipelines. Skilled in **Python, SQL, PySpark, Polars, DuckDB, AWS Cloud, ETL Development, Data Analytics, Data Warehousing, Django, C#, ASP.NET, REST APIs, and Database Management.**
 
-Completed the **IBM Data Science Professional Certificate**, strengthening expertise in data processing, data modeling, data visualization, machine learning fundamentals, and analytics. Passionate about transforming raw data into reliable, scalable, and business-ready datasets that support organizational decision-making.
-
-Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably **Onsite or Hybrid**, where I can leverage my software engineering background, analytical skills, and data engineering capabilities to build robust data solutions.
+Currently seeking **Data Engineer** opportunities in **Bengaluru (Onsite / Immediate Joiner)**, where I can leverage my software engineering background, analytical skills, and data engineering capabilities to build robust data solutions.
 
 ## Contact Information  
 📫 Reach me via:  
@@ -40,7 +38,7 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
 - Maintained technical proficiency through independent projects, research, and continuous professional development.
 
 ### Software Engineer  
-**Brevera Technologies** | **Oct 2015 – Dec 2017**  
+**Brevera Technologies** | **10/2015 – 12/2017**  
 - Developed production Python data applications, reducing pipeline system error resolution times by 30%.
 - Built SQL data reporting modules, improving query performance efficiency by 20%.
 - Managed reliable deployments across cross-functional engineering teams utilizing structured Git workflows.
@@ -48,22 +46,22 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
 
 ## Professional Projects
 
-- **Real-Time E-Commerce Anomaly Engine**  
-    - Engineered real-time streaming infrastructure handling 43M+ daily records using DuckDB and Polars.
-    - Formulated low-latency sliding-window analytic calculations, reducing engine anomaly detection times by 45%
-    - Reduced ongoing cloud database costs by exporting partitioned Parquet lakehouse files directly.
+- **[Real-Time E-Commerce Anomaly Engine](https://github.com/Sachin9591/Data-Engineer-Projects/tree/c2e4935733cf7d033920b3a79a9f036de40f7ecf/Real-Time%20E-Commerce%20Anomaly%20Engine)**  
+    - Engineered an event-driven stream simulation pipeline processing **43M+ daily transactional payloads** utilizing Polars vectorization frames.
+    - Implemented low-latency sliding-window analytics via DuckDB to track transactions, slashing failure detection times by 45%.
+    - Dropped production infrastructure overhead costs by saving partitioned Parquet lakehouse file segments directly to cold local disks.
 
-- **Automated Financial Market Ingestion Engine**  
-    - Created automated financial ETL data pipelines, delivering sub-second real-time ingestion runtimes.
-    - Implemented automated DuckDB query constraints, dropping pipeline upstream validation exceptions by 60%.
-    - Processed 100K+ daily ticker snapshots using NumPy operations for historical algorithmic backtesting.
+- **[Automated Financial Market Ingestion Engine](https://github.com/Sachin9591/Data-Engineer-Projects/tree/ce8982cf20cda4983a435459f58a6a4113bdd4db/Automated%20Financial%20Market%20Ingestion%20Engine)**  
+    - Created autonomous Python-scheduled market ingestion routines, delivering stable, continuous pipeline tracking for tick feeds.
+    - Formulated automated upstream schema enforcement mechanisms within DuckDB, reducing data loading failures by 60%.
+    - Processed 100K+ daily algorithmic time-series ticks using NumPy array math to optimize historical backtesting pipelines.
 
-- **Enterprise Business Intelligence Data Warehouse**  
-    - Architected high-performance DuckDB data warehouses, improving analytical execution speeds by 3.5x.
-    - Transformed 1M+ unstructured logs into functional Kimball dimension tables using Polars SQL.
-    - Built aggregated Parquet views to eliminate rendering latency on enterprise visualization layers.
+- **[Enterprise Business Intelligence Data Warehouse](https://github.com/Sachin9591/Data-Engineer-Projects/tree/c37e9e2c2a1d34cbf6068f053ae4a1cd8ebeaf5f/Enterprise%20Business%20Intelligence%20Data%20Warehouse)**
+    - Architected high-performance embedded DuckDB data warehouses, accelerating query analytical completion rates by 3.5x.
+    - Transformed over 1M+ raw, unstructured system logs into functional Kimball dimension tables using Polars SQL execution frames.
+    - Created pre-aggregated analytical Parquet warehouse storage tables, eliminating visualization layer dashboard rendering latency.
 
-- **Business Insights & Visualization Dashboard**  
+- **[Business Insights & Visualization Dashboard](https://github.com/Sachin9591/Data_Science/tree/1a30949cd680bda03f612573027b8c40797d20ca/Business%20Insights%20and%20Visualization%20Dashboard)**
     - Developed interactive dashboards using Python, SQL, and Power BI/Tableau.
     - Performed data extraction, cleaning, transformation, and visualization.
     - Automated reporting workflows and KPI monitoring processes.
@@ -86,7 +84,7 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
     - Supported device communication, calibration, and operational analytics.
     - Improved monitoring efficiency through automated data capture.
       
-- **Stock Analysis Using Machine Learning**
+- **[Stock Analysis Using Machine Learning](https://github.com/Sachin9591/Data_Science/tree/b790f9bea5942c653d61c0e2cb5cfead4d2f0b2d/Stock%20Analysis%20Using%20ML)**
     - Utilized Python, Pandas, NumPy, and Scikit-Learn for data analysis.
     - Performed data preprocessing, transformation, and feature engineering.
     - Conducted exploratory data analysis and predictive modeling.
@@ -98,7 +96,7 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
     - Implemented product management, shopping cart, and order processing modules.
     - Integrated secure transaction workflows and data management processes.
       
-- **Instagram Clone using HTML & CSS**
+- **[Instagram Clone using HTML & CSS](https://drive.google.com/file/d/1aUvGVK80h6qjzrNxjHQdYj_zS0lIMQKd/view?usp=drive_link)**
     - Demonstrated front-end development expertise by designing an Instagram clone using HTML and CSS for practical skill enhancement.
     - Replicated Instagram’s layout and core functionalities to gain hands-on experience in responsive and user-friendly web design.
     - Strengthened web design skills through interactive project implementation, focusing on UI accuracy, layout precision, and feature replication.
