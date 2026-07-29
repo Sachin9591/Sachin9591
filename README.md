@@ -2,7 +2,9 @@
 
 ### Senior Data Engineer | Python • Advanced SQL • PySpark • AWS Cloud • ETL/ELT Pipelines | Multi-Terabyte Data Pipelines & Warehousing | Open to Onsite and Hybrid Opportunities in Bengaluru
 
-Versatile Senior Data Engineer with 9+ years of comprehensive experience across corporate Fintech and Insurance domains, combined with strategic independent consulting building high-scale data architectures, automation solutions, and real-time streaming systems. Passionate about transforming raw data into reliable, scalable, and business-ready datasets that support organizational decision-making. Advanced proficiency in designing multi-terabyte data lakehouses, optimizing analytical queries by 3.5x, and deploying robust production ETL/ELT pipelines. Skilled in **Python, SQL, PySpark, Polars, DuckDB, AWS Cloud, ETL Development, Data Analytics, Data Warehousing, Django, C#, ASP.NET, REST APIs, and Database Management.**
+Versatile Senior Data Engineer with 9+ years of comprehensive experience across corporate Fintech and Insurance domains, combined with strategic independent consulting building high-scale data architectures, automation solutions, and real-time streaming systems. Passionate about transforming raw data into reliable, scalable, and business-ready datasets that support organizational decision-making. 
+
+Demonstrates advanced proficiency in designing multi-terabyte data lakehouses, optimizing analytical queries by 3.5x, and deploying robust production ETL/ELT pipelines. Expertly skilled across a comprehensive technology stack, including **Python, SQL, PySpark, Polars, DuckDB, AWS Cloud, ETL Development, Data Analytics, Data Warehousing, Django, C#, ASP.NET, REST APIs, and Database Management.**
 
 Currently seeking **Data Engineer** opportunities in **Bengaluru (Onsite / Immediate Joiner)**, where I can leverage my software engineering background, analytical skills, and data engineering capabilities to build robust data solutions.
 
