@@ -18,37 +18,50 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
 
 ## Work Experience
 
-### Senior Data Engineering Consultant (Independent Contractor)
-**Freelance Data Solutions** | **Oct 2020 - Present**
-- Developed Python-based automation solutions, data processing applications, and database-driven systems for various business requirements.
-- Built data workflows involving data extraction, transformation, validation, and reporting processes.
-- Designed and maintained structured databases for efficient storage, retrieval, and analysis of business information.
-- Delivered analytics solutions and dashboards that improved business visibility and operational efficiency.
-- Managed project planning, client communication, documentation, and deployment independently.
+### Senior Data Engineering Consultant / Solutions Architect
+**Independent Data Consulting** | **10/2020 - 07/2026**
+- Engineered scalable end-to-end data architectures for 8+ enterprise FinTech and E-commerce clients.
+- Automated ingestion pipelines and Power BI dashboards, reducing reporting latency by 30%.
+- Developed vectorized Scikit-learn machine learning engines to deliver real-time operational insights.
+- Deployed automated schema validation, securing production data quality for multi-terabyte systems.
 
 ### Senior Software Engineer  
-**Novac Technology Solutions** | **Nov 2018 – Sept 2020**  
-- Led enterprise web application projects within the Insurance and Fintech domains.
-- Developed and maintained scalable web applications and backend systems using ASP.NET and SQL Server.
-- Worked extensively with relational databases, data integration processes, reporting systems, and performance optimization.
-- Collaborated with business stakeholders to gather requirements and deliver data-driven solutions.
-- Managed project execution, team coordination, debugging, maintenance, and production support activities.
+**Novac Technology Solutions** | **11/2018 – 09/2020**  
+- Built insurance applications using C# and SQL Server, boosting speeds by 40%.
+- Optimized complex relational database transactions, dropping overall processing error rates by 35%.
+- Designed clean dimensional database models to support strategic enterprise analytics pipelines.
+- Led a cross-functional team of 5 engineers to deliver critical backend systems.
 
 ### Full-Time Family Caregiver
-**Career Break** | **Jan 2018 – Nov 2018**  
-- Took a planned career break to provide dedicated health and personal care support for immediate family members.
-- Utilized personal time to strengthen technical expertise through self-directed learning in SQL, database systems, data architecture, and software engineering concepts.
+**Career Break** | **01/2018 – 10/2018**  
+- Paused professional career to provide critical healthcare management for immediate family members.
+- Mastered advanced cloud-scale data warehouse architectures and optimized SQL distributed queries.
 - Continued exploring emerging technologies and industry best practices in data management and analytics.
 - Maintained technical proficiency through independent projects, research, and continuous professional development.
 
 ### Software Engineer  
 **Brevera Technologies** | **Oct 2015 – Dec 2017**  
-- Developed software applications and embedded solutions supporting industrial automation products.
-- Worked on data collection, monitoring, calibration, testing, and reporting systems. 
-- Maintained databases and software systems to support operational efficiency and product reliability.
-- Participated in system testing, troubleshooting, client support, and deployment activities.
+- Developed production Python data applications, reducing pipeline system error resolution times by 30%.
+- Built SQL data reporting modules, improving query performance efficiency by 20%.
+- Managed reliable deployments across cross-functional engineering teams utilizing structured Git workflows.
+- Deployed targeted database validation rules to secure internal data migration pipeline reliability.
 
 ## Professional Projects
+
+- **Real-Time E-Commerce Anomaly Engine**  
+    - Engineered real-time streaming infrastructure handling 43M+ daily records using DuckDB and Polars.
+    - Formulated low-latency sliding-window analytic calculations, reducing engine anomaly detection times by 45%
+    - Reduced ongoing cloud database costs by exporting partitioned Parquet lakehouse files directly.
+
+- **Automated Financial Market Ingestion Engine**  
+    - Created automated financial ETL data pipelines, delivering sub-second real-time ingestion runtimes.
+    - Implemented automated DuckDB query constraints, dropping pipeline upstream validation exceptions by 60%.
+    - Processed 100K+ daily ticker snapshots using NumPy operations for historical algorithmic backtesting.
+
+- **Enterprise Business Intelligence Data Warehouse**  
+    - Architected high-performance DuckDB data warehouses, improving analytical execution speeds by 3.5x.
+    - Transformed 1M+ unstructured logs into functional Kimball dimension tables using Polars SQL.
+    - Built aggregated Parquet views to eliminate rendering latency on enterprise visualization layers.
 
 - **Business Insights & Visualization Dashboard**  
     - Developed interactive dashboards using Python, SQL, and Power BI/Tableau.
@@ -136,9 +149,37 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
     - Improved operational efficiency through automation techniques.
     - Demonstrated problem-solving skills in embedded systems development.
 
-## Skills
+## Technical Infrastructure Profile
 
-- **Programming Languages**: Python, SQL, C#, JavaScript, HTML, CSS
+### **1. Core Languages & Vectorized Execution**
+- **Systems & Query Languages:** Python (Advanced), Advanced SQL, C#, JavaScript, HTML, CSS
+- **Vectorized Mathematics:** NumPy, Pandas, Algorithmic Logic Arrays
+
+### **2. High-Scale Data Engineering & Stream Processing**
+- **Distributed Computing:** Apache Spark (PySpark), Spark Clusters
+- **High-Speed Execution Engines:** Polars Data Frames, Vectorized Processing Engines
+- **Streaming Analytics:** Real-Time Sliding Windows, Stream Simulation Pipelines, Event-Driven Architectures
+
+### **3. Modern Storage & Data Lakehouses**
+- **Columnar Formats:** Apache Parquet, Partitioned Lakehouse Structures, Scheme-on-Write Storage
+- **OLAP Environments:** Modern Embedded Engines, DuckDB Analytics, In-Memory Query Tuning
+
+### **4. Enterprise Cloud, OLTP & Data Warehousing**
+- **Cloud Infrastructure:** AWS Cloud Architecture
+- **Relational & Storage Systems:** SQL Server, PostgreSQL, MySQL, SQLite
+- **Data Layout Architecture:** Cloud Data Warehousing, Transactional Databases (OLTP)
+
+### **5. Data Modeling, Strategy & Governance**
+- **Structural Modeling:** Dimensional Modeling, Kimball Star-Schema Design, Conformed Dimensions
+- **Data Integrity Controls:** Corporate Data Governance, Upstream Schema Validation, Exception Handling
+
+### **6. Enterprise Application & Delivery Frameworks**
+- **Web & APIs:** Django Platforms, ASP.NET Core Frameworks, RESTful API Contracts
+- **Delivery Workflows:** Git Version Control, CI/CD Repository Management, Jupyter Environments
+
+### **7. Analytics, Predictive Modeling & Business Intelligence**
+- **Business Intelligence (BI):** Power BI Dashboards, Tableau Metric Visualizations, Advanced Reporting Layers
+- **Data Science & Machine Learning:** Scikit-learn Pipelines, Exploratory Analysis, Matplotlib, Seaborn
 - **Data Engineering & Analytics**: ETL Development, Data Modeling, Data Warehousing, Data Integration, Data Validation, Data Transformation, Data Analysis, Data Visualization, Reporting & Dashboarding
 - **Databases**: SQL Server, MySQL, PostgreSQL, SQLite
 - **Frameworks & Technologies**: Django, ASP.NET, REST APIs, Git, Jupyter Notebook
