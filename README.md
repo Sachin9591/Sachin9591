@@ -159,6 +159,7 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
 - **Distributed Computing:** Apache Spark (PySpark), Spark Clusters
 - **High-Speed Execution Engines:** Polars Data Frames, Vectorized Processing Engines
 - **Streaming Analytics:** Real-Time Sliding Windows, Stream Simulation Pipelines, Event-Driven Architectures
+- **Data Engineering & Analytics:** ETL Development, Data Integration, Data Transformation
 
 ### **3. Modern Storage & Data Lakehouses**
 - **Columnar Formats:** Apache Parquet, Partitioned Lakehouse Structures, Scheme-on-Write Storage
@@ -170,21 +171,20 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru**, preferably *
 - **Data Layout Architecture:** Cloud Data Warehousing, Transactional Databases (OLTP)
 
 ### **5. Data Modeling, Strategy & Governance**
-- **Structural Modeling:** Dimensional Modeling, Kimball Star-Schema Design, Conformed Dimensions
-- **Data Integrity Controls:** Corporate Data Governance, Upstream Schema Validation, Exception Handling
+- **Structural Modeling:** Dimensional Modeling, Kimball Star-Schema Design, Conformed Dimensions, Data Modeling
+- **Data Integrity Controls:** Corporate Data Governance, Upstream Schema Validation, Exception Handling, Data Validation
 
 ### **6. Enterprise Application & Delivery Frameworks**
 - **Web & APIs:** Django Platforms, ASP.NET Core Frameworks, RESTful API Contracts
 - **Delivery Workflows:** Git Version Control, CI/CD Repository Management, Jupyter Environments
 
 ### **7. Analytics, Predictive Modeling & Business Intelligence**
-- **Business Intelligence (BI):** Power BI Dashboards, Tableau Metric Visualizations, Advanced Reporting Layers
-- **Data Science & Machine Learning:** Scikit-learn Pipelines, Exploratory Analysis, Matplotlib, Seaborn
-- **Data Engineering & Analytics**: ETL Development, Data Modeling, Data Warehousing, Data Integration, Data Validation, Data Transformation, Data Analysis, Data Visualization, Reporting & Dashboarding
-- **Databases**: SQL Server, MySQL, PostgreSQL, SQLite
-- **Frameworks & Technologies**: Django, ASP.NET, REST APIs, Git, Jupyter Notebook
-- **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Project & Team Management**: Agile Methodology, Scrum, Team Leadership, Stakeholder Communication
+- **Business Intelligence (BI):** Power BI Dashboards, Tableau Metric Visualizations, Advanced Reporting Layers, Data Visualization, Reporting & Dashboarding
+- **Data Science & Machine Learning:** Scikit-learn Pipelines, Exploratory Analysis, Matplotlib, Seaborn, Data Analysis
+
+### **8. Engineering Leadership & Delivery**
+- **Methodologies:** Agile Methodology, Scrum Frameworks
+- **Execution:** Team Leadership, Cross-Functional Stakeholder Communication
 
 ## Certifications
 
