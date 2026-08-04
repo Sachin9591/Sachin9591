@@ -2,9 +2,9 @@
 
 ### Senior Data Engineer | Python • Advanced SQL • PySpark • AWS Cloud • ETL/ELT Pipelines | Multi-Terabyte Data Pipelines & Warehousing | Open to Onsite and Hybrid Opportunities in Bengaluru
 
-Versatile Senior Data Engineer with 9+ years of comprehensive experience across corporate Fintech and Insurance domains, combined with strategic independent consulting building high-scale data architectures, automation solutions, and real-time streaming systems. Passionate about transforming raw data into reliable, scalable, and business-ready datasets that support organizational decision-making. 
+Versatile Senior Data Engineer with 4.2 years of verified corporate experience across enterprise Fintech and Insurance domains, combined with an intensive multi-year track record of self-directed technical practice building high-scale data architectures, automation solutions, and real-time streaming simulation systems. Passionate about transforming raw data into reliable, scalable, and business-ready datasets that support organizational decision-making. 
 
-Demonstrates advanced proficiency in designing multi-terabyte data lakehouses, optimizing analytical queries by 3.5x, and deploying robust production ETL/ELT pipelines. Expertly skilled across a comprehensive technology stack, including **Python, SQL, PySpark, Polars, DuckDB, AWS Cloud, ETL Development, Data Analytics, Data Warehousing, Django, C#, ASP.NET, REST APIs, and Database Management.**
+Demonstrates advanced proficiency in designing multi-terabyte data lakehouses, optimizing analytical queries by 3.5x, and deploying robust production-grade ETL/ELT pipelines. Expertly skilled across a comprehensive technology stack, including **Python, SQL, PySpark, Polars, DuckDB, AWS Cloud, ETL Development, Data Analytics, Data Warehousing, Django, C#, ASP.NET, REST APIs, and Database Management.**
 
 Currently seeking **Data Engineer** opportunities in **Bengaluru (Onsite / Immediate Joiner)**, where I can leverage my software engineering background, analytical skills, and data engineering capabilities to build robust data solutions.
 
@@ -18,12 +18,12 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru (Onsite / Immed
 
 ## Work Experience
 
-### Senior Data Engineering Consultant / Solutions Architect
-**Independent Data Consulting** | **10/2020 - 07/2026**
-- Engineered scalable end-to-end data architectures for 8+ enterprise FinTech and E-commerce clients.
-- Automated ingestion pipelines and Power BI dashboards, reducing reporting latency by 30%.
-- Developed vectorized Scikit-learn machine learning engines to deliver real-time operational insights.
-- Deployed automated schema validation, securing production data quality for multi-terabyte systems.
+### Independent Technical Research & Data Architecture Practice
+**Career Break / Self-Directed Technical Focus** | **10/2020 - 07/2026**
+- Designed local data architectures simulating high-volume FinTech pipelines handling 43M+ daily records
+- Engineered high-throughput streaming systems using DuckDB and Polars, reducing processing latency by 45%.
+- Automated local analytical pipelines and Power BI dashboards to optimize data ingestion.
+- Developed vectorized machine learning engines and schema validation layers using Scikit-learn.
 
 ### Senior Software Engineer  
 **Novac Technology Solutions** | **11/2018 – 09/2020**  
