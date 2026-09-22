@@ -18,12 +18,12 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru (Onsite / Immed
 
 ## Work Experience
 
-### Independent Technical Research & Data Architecture Practice
-**Career Break / Self-Directed Technical Focus** | **10/2020 - 07/2026**
-- Designed local data architectures simulating high-volume FinTech pipelines handling 43M+ daily records
-- Engineered high-throughput streaming systems using DuckDB and Polars, reducing processing latency by 45%.
-- Automated local analytical pipelines and Power BI dashboards to optimize data ingestion.
-- Developed vectorized machine learning engines and schema validation layers using Scikit-learn.
+### Independent Data Engineering Research and Portfolio Architecture
+**Self-Directed Advanced Technology Specialization** | **10/2020 - 07/2026**
+- Designed open-source data architectures simulating high-volume FinTech pipelines handling 43M+ daily records.
+- Engineered portfolio streaming infrastructure using DuckDB and Polars, dropping processing latency by 45%.
+- Automated portfolio analytical pipelines and Power BI dashboards to optimize data ingestion models.
+- Developed portfolio machine learning engines and schema validation layers using Scikit-learn workflows.
 
 ### Senior Software Engineer  
 **Novac Technology Solutions** | **11/2018 – 09/2020**  
