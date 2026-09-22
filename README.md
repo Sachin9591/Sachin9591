@@ -14,7 +14,7 @@ Currently seeking **Data Engineer** opportunities in **Bengaluru (Onsite / Immed
 - **Email:** [skumar10031993@gmail.com](mailto:skumar10031993@gmail.com)
 - **Portfolio Website:** [Sachin Kumar B](https://sachinholla.in/)
 - **LinkedIn Profile:** [Sachin Kumar B LinkedIn](https://www.linkedin.com/in/sachinkumarb-dataengineer)  
-- **Latest CV/Resume:** [Download Data Engineer Resume](https://drive.google.com/file/d/1d540D-_2rah2pat4bC7AZRRsCJaWT1-n/view?usp=drive_link)
+- **Latest CV/Resume:** [Download Data Engineer Resume](https://drive.google.com/file/d/1n1VnEl2p42CXuE1oLeKEyMEYebBChBBG/view?usp=drive_link)
 
 ## Work Experience
 
